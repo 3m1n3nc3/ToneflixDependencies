@@ -7,7 +7,7 @@ A possible example is given below:
 
 ```js
 mix.scripts([
-    'ToneflixDependencies/helper.js',
+    'ToneflixDependencies/multiselect.helper.js',
     'ToneflixDependencies/multiselect.core.js',
     'ToneflixDependencies/multiselect.js',
 ], 'public/js/compile.js');

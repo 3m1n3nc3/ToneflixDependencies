@@ -7,7 +7,6 @@ A possible example is given below:
 
 ```js
 mix.scripts([
-    'ToneflixDependencies/plugins.js',
     'ToneflixDependencies/helper.js',
     'ToneflixDependencies/multiselect.core.js',
     'ToneflixDependencies/multiselect.js',

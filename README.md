@@ -5,7 +5,7 @@ The prefered mode of distribution is by compiling via laravel mix or any other b
 
 A possible example is given below:
 
-```
+```js
 mix.scripts([
     'ToneflixDependencies/plugins.js',
     'ToneflixDependencies/helper.js',

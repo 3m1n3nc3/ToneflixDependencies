@@ -14,5 +14,5 @@ mix.scripts([
 ```
 
 ## Directories
-Where certain scripts are project specific, they will not be in the root directory, instead a new directory matching the project name will be used to house them, this is also a simple requirement for proper structural organization and understanding.
+Where certain scripts are project specific, they will not be in the root directory, instead a new directory matching the project name will be used to house them, this is also a simple recommendation for proper structural organization and understanding.
  
